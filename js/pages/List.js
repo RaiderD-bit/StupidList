@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The completion should not use any hacks (Only speedhack to speed the game is allowed ofc)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        The minimum speed to be accepted is 1.3, anything lower than that will get refused
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        If you verify a level that is already on the list but with a lower speed, it will get removed and replaced with yours
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Your completion must have clicks audible, DO NOT USE THAT ONE CLICK SOUND MODE
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The completion must contain the previous attempt before
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        The completion must contain the endscreen
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use secret ways to beat the level, your completion will get rejected
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        The level that you are beating / verifying must not contain any nerfs or buffs than the one on the list or that you are submitting
                     </p>
                 </div>
             </div>
