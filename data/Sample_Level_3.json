@@ -1,22 +1,22 @@
 {
     "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "nonee",
+    "author": "none2",
+    "creators": ["none2, none"],
+    "verifier": "none2r",
+    "verification": "https://youtu.be/3V7Rvo4Gvic?si=251L1UO29b187Y8E",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "none",
+            "link": "https://youtu.be/Yo5vRHJ5y0Y?si=G0vH7cf3QkIuM7A4",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "none3",
+            "link": "https://youtu.be/GhAs9cfPVNg?si=C6EF0Zqd6SQTPc5d",
             "percent": 100,
             "hz": 120
         }
