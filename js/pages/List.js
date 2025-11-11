@@ -109,6 +109,9 @@ export default {
                         If you verify a level that is already on the list but with a lower speed, it will get removed and replaced with yours
                     </p>
                     <p>
+                        The level must be rated and demon difficulty
+                    </p>
+                    <p>
                         Your completion must have clicks audible, DO NOT USE THAT ONE CLICK SOUND MODE
                     </p>
                     <p>
